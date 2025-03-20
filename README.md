@@ -54,4 +54,4 @@ Requisits
 
 Nota
 
-Aquest projecte està destinat a ús educatiu dins del Treball de Fi de Grau (TFG). És una eina bàsica que pot servir com a base per a futurs estudis i millores.
+Aquest projecte està destinat a ús educatiu dins del Treball de Fi de Grau (TFG). És una eina bàsica que pot servir com a base per a futurs estudis.
