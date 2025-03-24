@@ -240,7 +240,7 @@ def generate_vmg_table(df):
             lambda x: '' if pd.isna(x) else str(int(x)))
     return vmg_df
 
-# -------------------- FUNCIONS D'APLICACIÓ DE SUAVITZAT (AJUST PARABÒLIC) -------------------- #
+# -------------------- FUNCIONS DE SUAVITZAT (AJUST PARABÒLIC) -------------------- #
 
 
 def smooth_polar_data(pivot_df):
